@@ -12,12 +12,12 @@ I am a second-year student currently in my 4th semester, building high-performan
 3. <ins>Frontend/UI</ins>: HTML, CSS, JavaScript
 4. <ins>Tools</ins>: Git, Linux, Shell Scripting
 
-## Quantitative & Big Data Projects
+## 💸 Quantitative & Big Data Projects
 - <ins>Trading Backtester</ins>: A Python-based engine designed to simulate and validate trading strategies against historical market data.
 - <ins>Stochastic Congestion Model</ins>: A probabilistic simulation project analyzing system bottlenecks and flow using mathematical modeling.
 - <ins>Log Parser</ins>: A utility built to handle and process large-scale system logs, demonstrating early Big Data processing capabilities.
 
-## Systems Engineering & Reliability
+## 🖥️ Systems Engineering & Reliability
 - <ins>Formal Verification (Promela)</ins>: I use the Spin Model Checker to prove the correctness of concurrent systems.
 - <ins>Stopwatch Model</ins>: Verified for state safety and deadlock freedom.
 - <ins>Concurrency checker</ins>: A C/C++ project focused on identifying synchronization issues in multi-threaded environments.
