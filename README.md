@@ -1,4 +1,4 @@
-## Hi ! I'm Stuti Mistry 👋
+## Hi ! I'm Stuti Mistry 👋🏻
 # 💫 About Me:
 I am a second-year student currently in my 4th semester, building high-performance systems and data simulations. My focus is on the intersection of low-level systems engineering and quantitative analysis, with a particular interest in Big Data pipelines and Formal Verification.
 
