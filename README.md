@@ -1,6 +1,6 @@
 ## Hi ! I'm Stuti Mistry 👋🏻
 # 💫 About Me:
-I am a second-year student currently in my 4th semester, building high-performance systems and data simulations. My focus is on the intersection of low-level systems engineering and quantitative analysis, with a particular interest in Big Data pipelines and Formal Verification.
+I’m a computer science student and developer who enjoys exploring different areas of software development and problem-solving. I like building things, whether that’s applications, simulations, data-driven tools, or experimental projects and learning new concepts along the way.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stutimistry147) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stutimistry147@gmail.com) 
