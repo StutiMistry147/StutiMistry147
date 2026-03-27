@@ -10,9 +10,5 @@ the authentication safety was formally *proven*, not just tested.
 I work across systems programming, data pipelines, and applied ML,
 whatever the problem needs.
 
-# Stack
-Python · C++ · SQL · Promela/SPIN · JavaScript · FastAPI · React ·
-Pandas · XGBoost · PostgreSQL · Redis · Git · Linux · MySQL
-
 # Connect 
 [LinkedIn](https://linkedin.com/in/stutimistry147)
